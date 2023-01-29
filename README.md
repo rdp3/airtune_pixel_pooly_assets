@@ -1,6 +1,6 @@
 # Pixel Pooly Assets
 
-Raw project file `pooly_pals.aseprite` can be opened in AseSprite.
+Raw project file `pooly_pals.aseprite` can be opened in Aseprite.
 
 Raw export is located in `/pngs`
 
